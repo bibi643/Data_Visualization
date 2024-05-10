@@ -1,5 +1,5 @@
 # Data_Visualization
-Practice to Data Visualization (ON GOING)
+Practice to Data Visualization 
 
 
 ![Static Badge](https://img.shields.io/badge/Data_Visualization-red) ![Static Badge](https://img.shields.io/badge/Seaborn-green) ![Static Badge](https://img.shields.io/badge/Plotly-cyan)
